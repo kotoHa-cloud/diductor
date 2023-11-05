@@ -66,7 +66,9 @@ class MinHeap {
     };
 };
 
-// 使用例
+/* 使用例
+　　本来は以下の部分を複数計算し、最短経路を算出します。
+　　今回は、最短経路ではなく、簡単な優先度で小さい順に並べるプログラムです */
 const minHeap = new MinHeap();
 minHeap.insert([5, 'A']);
 minHeap.insert([2, 'B']);
