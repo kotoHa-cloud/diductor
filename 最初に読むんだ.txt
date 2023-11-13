@@ -1,7 +1,0 @@
-Google Driveからこれ見てたらちゃんと読んでね。
-一応Google Driveにも俺が作ったプログラム入れました。
-だけどこのURLだとちゃんとプログラミングっぽくなるからこっちのほうがいいかも。あと実際に動いてる動画も入れときました！
-ぜひ使ってね。
-
-GitHubのURL
-https://github.com/kotoHa-cloud/diductor/blob/main/diductor.js
